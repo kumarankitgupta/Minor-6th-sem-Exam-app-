@@ -32,7 +32,7 @@ export const LogoutScreen = ({}) => {
       <Stack2.Navigator>
       <Stack2.Screen
           name="Login"
-          component={Login}
+          component={Login}//comments
           options={{ headerShown: false }}
         />
         <Stack2.Screen
